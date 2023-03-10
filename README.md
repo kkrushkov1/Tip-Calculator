@@ -1,5 +1,5 @@
-# Tip Calculator 
+# Tip Calculator
 
 A simple calculator which calculates the total sum per person based on the bill and a tip percentage.
 
-`![picture](/calculator.png)`
+`![picture](/images/calculator.png)`
